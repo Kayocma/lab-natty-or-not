@@ -1,51 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+### Technology and Real world
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Equilibrio entre tecnologia e nossa vida
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerado uma história em quadrinhos pequena, com 06 quadrinhos apenas, para conscientizar as pessoas da diminuição do uso de telefones no seu dia a dia, para que aproveitem mais o dia com as pessoas ao seu redor.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usado o ChaGPT e sua ferramente DALL-E, desenvolvidos pela OpenAI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChaGPT criar a história, sem falas, apenas com personagens. Com isso, o DALL-E veio em seguida para gerar essas imagens, através do texto criado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui está uma história em quadrinhos para conscientizar sobre o equilíbrio entre tecnologia e vida pessoal:
+
+Painel 1:
+
+    Cena: Um parque ensolarado com várias pessoas sentadas nos bancos, lendo livros, conversando ou apenas apreciando a natureza.
+    Foco: Um jovem sentado em um banco, completamente absorto em seu celular, ignorando o ambiente ao redor.
+
+Painel 2:
+
+    Cena: O mesmo jovem, agora levanta a cabeça e olha ao redor.
+    Foco: Ele percebe um grupo de crianças brincando e rindo juntas.
+
+Painel 3:
+
+    Cena: O jovem decide guardar o celular no bolso e se levanta do banco.
+    Foco: Ele se aproxima das crianças e começa a jogar uma bola com elas, todos se divertindo.
+
+Painel 4:
+
+    Cena: Anoitece, o parque está mais vazio, as pessoas se despedindo umas das outras.
+    Foco: O jovem, agora cercado por novos amigos que fez durante o dia, todos sorrindo e trocando contatos.
+
+Painel 5:
+
+    Cena: Em casa, o jovem está deitado na cama, sorrindo enquanto envia mensagens para seus novos amigos pelo celular.
+    Foco: Na mesinha ao lado, o celular está ao lado de um livro aberto.
+
+Painel 6:
+
+    Cena: Fechando a história, vemos o jovem dormindo tranquilamente na cama.
+    Foco: Ao lado da cama, o celular está silencioso, enquanto o livro continua aberto, indicando um equilíbrio entre tecnologia e vida pessoal.
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Essa história em quadrinhos mostra como encontrar um equilíbrio saudável entre o uso da tecnologia e o envolvimento com o mundo real ao nosso redor.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
